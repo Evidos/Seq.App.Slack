@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27004.2009
+VisualStudioVersion = 15.0.28307.106
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Seq.App.Slack", "src\Seq.App.Slack\Seq.App.Slack.csproj", "{80C336AB-5408-45E5-9D41-850CDF0DAD46}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Evidos.Seq.App.Slack", "Evidos.Seq.App.Slack.csproj", "{80C336AB-5408-45E5-9D41-850CDF0DAD46}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,6 +20,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {E61C3387-2CD9-45BB-A043-CD71994AE12F}
+		SolutionGuid = {15640BD0-B8E7-4EBC-9A48-F099BA985715}
 	EndGlobalSection
 EndGlobal

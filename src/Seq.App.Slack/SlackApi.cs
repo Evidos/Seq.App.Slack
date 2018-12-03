@@ -35,8 +35,6 @@ namespace Seq.App.Slack
             }
         }
 
-        
-        
         public void SendMessage(string webhookUrl, SlackMessage message)
         {
             var json = JsonConvert.SerializeObject(message, _jsonSettings);
