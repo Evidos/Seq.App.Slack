@@ -5,7 +5,7 @@
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Company>Evidos</Company>
     <Version>0.0.8</Version>
-    <PackageTags>seq-app evidos slack sms seq</PackageTags>
+    <PackageTags>seq-app evidos slack seq</PackageTags>
     <Authors>Evidos</Authors>
     <TargetsForTfmSpecificBuildOutput>$(TargetsForTfmSpecificBuildOutput);GetMyPackageFiles</TargetsForTfmSpecificBuildOutput>
     <PackageId>Seq.App.Slack</PackageId>
